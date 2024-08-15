@@ -1,0 +1,29 @@
+{
+  "name": "pradeep-nayak-portolio",
+  "version": "1.0.0",
+  "description": "This contains my portfolio website frontend code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/this-pradeep/portfolio.git"
+  },
+  "keywords": [
+    "pradeep",
+    "nayak"
+  ],
+  "author": "Pradeep Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/this-pradeep/portfolio/issues"
+  },
+  "homepage": "https://github.com/this-pradeep/portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  },
+  "dependencies": {
+    "preline": "^2.4.1"
+  }
+}
